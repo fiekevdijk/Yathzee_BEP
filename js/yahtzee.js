@@ -196,7 +196,7 @@ function resetTable() {
 }
 
 function resetGame() {
-	window.location.reload(false);
+	//window.location.reload(false);
 }
 
 function updateSelectedDiceElements() {
