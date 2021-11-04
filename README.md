@@ -10,4 +10,4 @@ The game consists of 13 rounds. The round starts by rolling all the dice. After 
 
 [Rules on Wikipedia](https://en.wikipedia.org/wiki/Yahtzee#Rules)
 
-### <a href="https://peippo.github.io/yahtzee/">Open the project</a>
+### <a href="https://fiekevdijk.github.io/Yathzee_BEP/">Open the project</a>
