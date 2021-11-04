@@ -301,6 +301,6 @@ function countFinalScore () {
 	scoreMessage.lastChild.className = 'score-total bounceIn animated';
 
 	rollButton.className = 'roll-3 playagain';
-	rollButton.innerHTML = 'NEW GAME';
+	//rollButton.innerHTML = 'NEW GAME';
 	rollButton.addEventListener('click', resetGame, false);
 }
